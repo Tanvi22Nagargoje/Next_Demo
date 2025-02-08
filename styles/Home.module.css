@@ -1,0 +1,11 @@
+/* styles/Home.module.css */
+.container {
+    padding: 20px;
+    background-color: #62a6dd;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  

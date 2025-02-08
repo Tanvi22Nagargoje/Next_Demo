@@ -1,0 +1,26 @@
+/* components/NavBar.module.css */
+nav {
+    background-color: #333;
+    padding: 10px;
+  }
+  
+  nav ul {
+    display: flex;
+    justify-content: space-around;
+    padding: 0;
+    list-style-type: none;
+  }
+  
+  nav ul li {
+    margin: 0;
+  }
+  
+  a {
+    color: white;
+    font-size: 18px;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
